@@ -1,7 +1,19 @@
-# rental_analysis
-Rental Analysis - PyViz HW - SMU FinTech Bootcamp
+# Project: Rental Analysis
+PyViz - Hyplot, Plotly express, Mapbox API 
 
 ---
+
+## Background
+Your company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. You were tasked with building a prototype dashboard. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
+The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
+In this assignment, you will accomplish the following tasks:
+
+1. Complete a notebook of rental analysis
+
+2. Create a dashboard of interactive visualizations to explore the market data
+
+---
+
 ### How to run and use the dashboard
 
 1. To run the dashboard, please click the `dashboard.ipynb` file in the directory.
